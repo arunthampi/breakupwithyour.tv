@@ -13,13 +13,14 @@
 
 .header h1 {
   text-align: center;
-  background: url(/images/feb-14-small.png) 10% 50% no-repeat;
+  background: url(/images/feb-14-small.png) 12% 30% no-repeat;
   line-height: 2.8em;
-  font-size: 3.2em;
+  font-size: 3.0em;
+  height: 4em;
 }
 
 .header h2 {
   text-align: center;
   color: #aaa;
-  margin-top: -25px;
+  margin-top: -78px;
 }
