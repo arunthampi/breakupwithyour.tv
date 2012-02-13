@@ -8,7 +8,15 @@
 }
 
 #content p {
-  font-size: 2em;
+  font-size: 1.3em;
+  line-height: 1.3em;
+  padding-top: 10px;
+}
+
+#content ul li {
+  font-size: 1.2em;
+  line-height: 1.4em;
+  color: #aaa;
 }
 
 .header h1 {
