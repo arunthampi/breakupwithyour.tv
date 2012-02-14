@@ -24,6 +24,10 @@ header h1 {font-family: 'Asap', sans-serif;background: url('../images/feb-14-48.
 #signatures {margin: 1em 0;background:#ddd;padding: .5em 1em;max-width: 574px;}
 #signatures div.item {margin: .5em 0;color:#aaa;font-size:1.2em;}
 
+.fb_edge_widget_with_comment {
+  top: -5px;
+}
+
 @media (max-width: 800px) {
   #signit a.btn {line-height:1.2em;font-size:1.3em;}
   #stats .hasher {display:block;float:none;margin:.5em 0;}
